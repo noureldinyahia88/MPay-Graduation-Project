@@ -14,7 +14,6 @@
 }
 .hero .input-container{
     padding: 1rem 0;
-
 }
 .hero .right{
     padding: 1rem;
@@ -30,6 +29,6 @@
 @media screen and (max-width: 948px) {
     .hero .container{
         grid-template-columns: 1fr;
-        margin: 1rem 0;
+        margin: 4rem 0;
     }
 }
